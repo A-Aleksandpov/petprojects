@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "petpyproject1",
+  "private_key_id": "d4b7fde27da5d9be07b07c9151d3685d74c181ff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCdtJK8RzKJqEPZ\nrp2JoFWGiup0y4tvdDPhwsHcDEImeNOjfJIGGq+6McqG1zViMNoVl7Jr41GOJmxA\nBotzy3Q/S8unnwkslzxgjjuc5M/oi6hnoQI8x9AS9qjMXtBb3RlZycfGfW3ZasA+\nsD3PiuTZHuEtD9WtcWkhfKa2jIL7es6RY3ti56NIh28lvC1m1PZMPF5dumnNeHYI\nr4WUUxkFbywkmZ/0XwpJTDN5zr4YqCqPuDjkA1waVRxL5kmlFcJaEu3rv/eaIS+Z\ncYi7+rhbQnfECFJNhCwOOGI7RB6M3Ltylb4eTfBj8Pe7QMj2bi+IueREdnrKsAvg\nFY+dwYBNAgMBAAECggEAMQpTbOfo78Sa4Mi7ZW4t2ko9cTdQc0ab0ZLqDL7lHSiK\ni3azw+EtjwVnuLmYeKG/V2KWUZVdKYqKM/i1CbuVOQ+dU1ERncOju1TPddDzVBmF\nsz/uva7W5ea9A9xiB4cAGJs2G+OqMqdPA89zUSQcWOYQ2J3pcOdo7UhhYTfdjUyc\nWa/Zqa/02+Lii7lVaS5Ftt1iyBsVejjXwskW4+WMHHt76M4t9yyOEaLZXzsAkSkA\nLGPtmlD0EhQjgSVgPbCPy8veN09sm6mYau4/a7Dfh4wUDcITScjkxovig6ZOvxyb\nCggzk0KeUzczYLgH8hD3uF3LZBKD8PlzFxY+aK1V0wKBgQDVaVhCVr5iofKPf6xz\n2OTmFi17eSX+1hQMfpf29f4MiCSNVxuudBrmmudcFpsMO8It0Qb3CWnCe7VRuP4m\nQNA1XbCsPpaiSTNeKuapJmp/dTe59oEUg5uva7ooGlTYMlkyENmyASzLY7Bz+Zm4\nARFGxD+tBlFmcTX2rNDrNmaK9wKBgQC9LVejH7MD96a8tQR/0in8g0X3nqT969NB\npFw8VWgJHcJNgAeL5eVYnq/FfhELyIqY3l8hGkY2BjRx2oqC70me8cxvBY5UdF59\nHiO85WH0eFVgCdw4ZS4qYCWQ9EySSiqsdveM693Wkw9CYWGd/J5NMy08HLAmNlmA\n3ZspGx2Z2wKBgENxOjIkxZ/X/Ba7S12E8rl/0rnNjGNfdhCIxS+Hh9SgBaUhHR9h\nk8rCs1DX2AHitLfT8faJ5AFRJPkBlFe0bdgflqCoWuRIa9Jbjm9wM4G6InVDYIGC\nIeYrDjZ0M9Hq/2MiDhoB4w0XoQDVpW2P8MzDYjgk4f6U0m/1J0Td+UP7AoGATtRP\nGXVDFlsjCq1vg4fi4Qseo7Fi1UBolojTunxoTqws5Dh+bIhOyl/NpMEEf2GAh3Ta\nNSQKr8ZkIjFL2IW3qtjdNEIfbgfTu9VMVRFMgR+Hi+5v6rwWwaew37c9FRR8tcMZ\nIorCtQAwspt7nua+XDMAHXVi3Xl2UGGHn1hiPFMCgYBdBlwsP90lbtKwTvFC4ftN\nZFFIKuvY68CHTDf0z7OxnXq/+Kz/lG5uzncs2/avL3s1d8StAtf8JAhTkOM3/61Y\nj0I9pHpvFad4ti1iOpJriwZFquNsnWloo8QbUqkWyfXORIpYut1hS8g8OCdHy1Dr\nNKLKFvQ+33miw0BABPnHSA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mypetproject1@petpyproject1.iam.gserviceaccount.com",
+  "client_id": "103902009889678071044",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mypetproject1%40petpyproject1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
