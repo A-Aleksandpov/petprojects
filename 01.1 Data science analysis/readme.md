@@ -1,3 +1,4 @@
+Programm for collecting data from website.
 pip install bs4
 pip install numpy
 pip install spacy
